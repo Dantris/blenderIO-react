@@ -1,0 +1,11 @@
+.user-profile {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    text-align: center;
+}
+
+.user-profile {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}

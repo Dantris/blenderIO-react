@@ -1,0 +1,13 @@
+.header {
+    background: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.header nav a {
+    color: #fff;
+    margin: 0 0 0.5rem;
+    text-decoration: none;
+}

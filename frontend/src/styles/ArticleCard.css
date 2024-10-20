@@ -1,0 +1,35 @@
+.article-card {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s ease-in-out;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .article-card:hover {
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  }
+  
+  .article-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .article-card-content {
+    padding: 15px;
+  }
+  
+  .article-title, .article-summary {
+    margin: 5px 0;
+  }
+  
+  .read-more-link {
+    text-align: right;
+    margin: 10px 0;
+    color: #007BFF;
+    cursor: pointer;
+  }
+  

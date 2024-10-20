@@ -1,0 +1,17 @@
+.article-page {
+    padding: 2rem;
+}
+
+.article-page h1 {
+    margin-bottom: 1rem;
+}
+
+.artciel-meta {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.article-content {
+    line-height: 1.6;
+}

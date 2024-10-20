@@ -1,0 +1,70 @@
+.editor-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.article-title-input {
+    width: 100%;
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.wrapper-class {
+    border: 1px solid #ccc;
+}
+
+.editor-class {
+    padding: 15px;
+    min-height: 300px;
+}
+
+.toolbar-class {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.rdw-option-wrapper {
+    border: 1px solid #F1F1F1;
+    padding: 5px;
+    min-width: 25px;
+    height: 20px;
+    border-radius: 2px;
+    margin: 0 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background: white;
+    text-transform: capitalize;
+}
+
+.rdw-dropdown-wrapper {
+    height: 30px;
+    background: white;
+    cursor: pointer;
+    border: 1px solid #F1F1F1;
+    border-radius: 2px;
+    margin: 0 3px;
+    text-transform: capitalize;
+    background: white;
+}
+
+.publish-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.publish-button:hover {
+    background-color: #45a049;
+}
